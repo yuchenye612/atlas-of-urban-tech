@@ -1,7 +1,7 @@
 ---
 title: Sino-Singapore Tianjin Eco-City
 description: A jointly development between China and Singapore, as an experiment of radical eco-city concepts.
-status: Draft
+status: Review
 author: Yuchen Ye
 type: example
 city: Tianjin
